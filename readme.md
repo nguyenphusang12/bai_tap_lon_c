@@ -15,7 +15,7 @@
 | Nguyễn Phú Sang     | K24DTCN084  | xử lý phần admin, tài liệu readme, khởi tạo database |
 | Ngô Gia Phú Trọng   | K24DTCN093  | Xử lý phần OTP, auth, backup |
 | Bùi Văn Huy         | K24DTCN060  | Xử lý phần User, Wallet  |
-| Phong               | 2112347  | Xử lý phần transactions, giao diện CLI  |
+| Nguyễn Thái Phong   | K24DTCN077  | Xử lý phần transactions, giao diện CLI  |
 
 ---
 
